@@ -1,0 +1,5 @@
+{
+	"name"    : "my-totem",
+  	"version" : "1.0.0-SNAPSHOT",
+  	"main"    : "main.js"
+}
